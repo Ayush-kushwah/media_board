@@ -38,4 +38,4 @@ https://developers.google.com/youtube/v3
 Contributions are welcome! Please submit a pull request with your changes.
 
 # Author
-Akash Kumawat
+Ayush Kushwah
